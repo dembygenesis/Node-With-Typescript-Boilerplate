@@ -1,0 +1,15 @@
+.idea
+node_modules
+logs
+dist
+.env
+application.log
+npm-debug.log
+.env.json
+
+# Testing files
+src/**/*.js
+src/**/*.map
+coverage
+
+public/*
